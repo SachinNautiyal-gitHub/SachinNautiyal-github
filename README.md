@@ -17,7 +17,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=SachinNautiyal-github&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     </div>
     <div>
-        <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Animated GIF">
+        <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Animated GIF" widht ="400px">
     </div>
     <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinNautiyal-github&theme=nightowl&hide_border=false" alt="GitHub Streak Stats">
